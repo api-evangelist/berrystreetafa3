@@ -1,0 +1,7 @@
+generated: "2026-09-27"
+method: none
+source: "No MCP server discovered in docs or other hosts."
+deployment:
+  mode: none
+  auth: unknown
+  verified: derived

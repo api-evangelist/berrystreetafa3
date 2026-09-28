@@ -1,0 +1,39 @@
+# Berry Street Provider Handbook
+
+## Berry Street Handbook
+
+- [Berry Street Provider Handbook](https://docs.berrystreet.co/berry-street-provider-handbook.md)
+- [New Provider Training](https://docs.berrystreet.co/berry-street-provider-handbook/new-provider-training.md)
+- [Healthie Quick Start Guide](https://docs.berrystreet.co/berry-street-provider-handbook/new-provider-training/healthie-quick-start-guide.md)
+- [Calendar Management](https://docs.berrystreet.co/berry-street-provider-handbook/calendar-management.md)
+- [Client Chart 101](https://docs.berrystreet.co/berry-street-provider-handbook/client-chart-101.md)
+- [Joining Client Sessions 101](https://docs.berrystreet.co/berry-street-provider-handbook/joining-client-sessions-101.md)
+- [Client Management](https://docs.berrystreet.co/berry-street-provider-handbook/client-management.md)
+- [Food Insecurity Resources and Protocol](https://docs.berrystreet.co/berry-street-provider-handbook/client-management/food-insecurity-resources-and-protocol.md)
+- [Inappropriate Patient Behavior Policy](https://docs.berrystreet.co/berry-street-provider-handbook/client-management/inappropriate-patient-behavior-policy.md)
+- [Trauma-Informed Care Policy](https://docs.berrystreet.co/berry-street-provider-handbook/client-management/trauma-informed-care-policy.md): The purpose of this policy is to ensure that Berry Street services, and provider-patient interactions are guided by a trauma-informed approach.
+- [Scope of Practice/Client Transfers](https://docs.berrystreet.co/berry-street-provider-handbook/scope-of-practice-client-transfers.md)
+- [Mental Health Concerns/Crisis Management](https://docs.berrystreet.co/berry-street-provider-handbook/mental-health-concerns-crisis-management.md)
+- [Medical Concerns](https://docs.berrystreet.co/berry-street-provider-handbook/medical-concerns.md): Medical Concerns During Virtual MNT Care
+- [Time Off & Client Sessions](https://docs.berrystreet.co/berry-street-provider-handbook/time-off-and-client-sessions.md)
+- [Leave of Absence/Resignation Protocol](https://docs.berrystreet.co/berry-street-provider-handbook/leave-of-absence-resignation-protocol.md)
+- [No Show/Late Cancellation Policies & Email Templates](https://docs.berrystreet.co/berry-street-provider-handbook/no-show-late-cancellation-policies-and-email-templates.md)
+- [Insurance & Self Pay](https://docs.berrystreet.co/berry-street-provider-handbook/insurance-and-self-pay.md)
+- [Billing Compliance and Documentation](https://docs.berrystreet.co/berry-street-provider-handbook/insurance-and-self-pay/billing-compliance-and-documentation.md): To ensure ethical, compliant, and accurate billing practices across all Berry Street providers, protecting both individual practitioners and the integrity of the network.
+- [Benefit Checks for Additional Sessions](https://docs.berrystreet.co/berry-street-provider-handbook/benefit-checks-for-additional-sessions.md)
+- [Berry Street Marketing](https://docs.berrystreet.co/berry-street-provider-handbook/berry-street-marketing.md): Where Berry Street sourced clients come from:
+- [Licensure](https://docs.berrystreet.co/berry-street-provider-handbook/licensure.md)
+- [Documentation](https://docs.berrystreet.co/berry-street-provider-handbook/documentation.md)
+- [Provider Payments & Invoicing](https://docs.berrystreet.co/berry-street-provider-handbook/provider-payments-and-invoicing.md)
+- [Open Office Hours](https://docs.berrystreet.co/berry-street-provider-handbook/open-office-hours.md)
+- [Berry Street Credentialing](https://docs.berrystreet.co/berry-street-provider-handbook/berry-street-credentialing.md)
+- [CAQH Profile Maintenance](https://docs.berrystreet.co/berry-street-provider-handbook/berry-street-credentialing/caqh-profile-maintenance.md)
+- [Code of Conduct & Community Guidelines](https://docs.berrystreet.co/berry-street-provider-handbook/code-of-conduct-and-community-guidelines.md)
+- [Sharing Clinical Concerns About Another Provider](https://docs.berrystreet.co/berry-street-provider-handbook/sharing-clinical-concerns-about-another-provider.md)
+- [Platform Updates](https://docs.berrystreet.co/berry-street-provider-handbook/platform-updates.md)
+- [Pro Tips for Virtual Care](https://docs.berrystreet.co/berry-street-provider-handbook/pro-tips-for-virtual-care.md)
+- [Video Call Troubleshooting Guide](https://docs.berrystreet.co/berry-street-provider-handbook/video-call-troubleshooting-guide.md)
+- [Video Call System Requirements](https://docs.berrystreet.co/berry-street-provider-handbook/video-call-troubleshooting-guide/video-call-system-requirements.md): System Requirements for Provider Vide oCalls
+- [Service/Platform Outages](https://docs.berrystreet.co/berry-street-provider-handbook/video-call-troubleshooting-guide/service-platform-outages.md)
+- [FAQ](https://docs.berrystreet.co/berry-street-provider-handbook/faq.md)
+- [GLP-1 Program](https://docs.berrystreet.co/berry-street-provider-handbook/glp-1-program.md): Overview of Berry Street’s GLP-1 co-care program, including provider guidance, workflows, clinical best practices, and support resources for patients using GLP-1 medications.

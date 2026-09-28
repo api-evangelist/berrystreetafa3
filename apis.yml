@@ -1,23 +1,76 @@
 aid: berrystreetafa3
+
 name: Berrystreetafa3
-description: 'Berrystreetafa3 is a company surfaced via the API Evangelist harvest backlog (source: secondary-market)
-  and added to the network as a stub for full-pipeline profiling.'
+
+image: https://framerusercontent.com/assets/UmbD9dceSXtVGZev7BzQjRwuydU.png
+
+description: 'Berry Street provides nutrition therapy services covered by insurance, connecting patients with board‑certified dietitians via an online platform. The company offers personalized diet plans, condition‑specific programs, and enterprise solutions for health providers, aiming to improve health outcomes through evidence‑based nutrition care.'
+
 url: https://raw.githubusercontent.com/api-evangelist/berrystreetafa3/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:secondary-market
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-09-27 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-09-27'
+
 modified: '2026-09-27'
+
 tags:
 - Company
-apis: []
+- Nutrition
+- HealthTech
+- Telehealth
+- Dietetics
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: Vendors
+  url: vendors/berrystreetafa3-vendors.yml
+- type: LLMsTxt
+  url: llms/berrystreetafa3-llms.txt
+- type: WellKnown
+  url: well-known/berrystreetafa3-well-known.yml
+- type: Hosts
+  url: hosts/berrystreetafa3-hosts.yml
+- type: TermsOfService
+  url: https://www.berrystreet.co/terms-and-conditions
+- type: PrivacyPolicy
+  url: https://www.berrystreet.co/privacy
+- type: GettingStarted
+  url: https://docs.berrystreet.co/berry-street-provider-handbook/new-provider-training/healthie-quick-start-guide
+- type: Documentation
+  url: https://docs.berrystreet.co/
+- type: DomainSecurity
+  url: security/berrystreetafa3-domain-security.yml
 - type: Website
-  url: https://equityzen.com/company/berrystreetafa3
+  url: https://www.berrystreet.co
+- type: Blog
+  url: https://www.berrystreet.co/blog
+
+apis: []
+
+x-coverage:
+  state: unreadable
+  reason: no-machine-readable-spec
+  detail: "Documentation is available at https://docs.berrystreet.co/ but no machine‑readable OpenAPI, GraphQL, AsyncAPI, or other contract was found."
+  evidence:
+    - url: https://docs.berrystreet.co/
+      status: 200
+  checked: '2026-09-27'
+x-enrichment:
+  date: '2026-09-27'
+  status: enriched
+  artifacts_added: 9
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local,regulatory=local
